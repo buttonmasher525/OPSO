@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "293b87f8-e320-4477-a4ce-0b54da2976b4",
+            "Value": {
+                "id": "451575bd-13fd-4126-8a8f-6a2f4923e92e",
+                "resourcePath": "fonts\\fnt_terminal\\fnt_terminal.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "3b5dc2c2-3dbf-431c-a173-a5a087b45414",
             "Value": {
                 "id": "ca865d5e-9104-4db3-92fa-1344b1a494f4",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "9215a8ed-1fac-451a-bb31-f5ac84176677",
+            "Value": {
+                "id": "70cb22f0-4a17-4610-9aea-92c0ccdee19a",
+                "resourcePath": "sounds\\snd_menu_switch\\snd_menu_switch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "d33c085b-b857-49ab-9c93-77ee700ce7ef",
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "ddeeab91-09aa-4b38-8a88-cc3a9e148f51",
+            "Value": {
+                "id": "ec471f02-42f8-433b-b9e0-424bd05eec52",
+                "resourcePath": "objects\\o_menu\\o_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dfddf466-9ff5-4f25-926e-e38cb21f4d94",
             "Value": {
                 "id": "e53eaf63-ebb4-4d90-a003-a37f87984de6",
@@ -186,7 +210,7 @@
             "Key": "f7130389-d827-4c13-bc08-8cbe9d7bff50",
             "Value": {
                 "id": "5d740933-9ad4-4d6e-8186-90cbf6780329",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\main_menu\\main_menu.yy",
                 "resourceType": "GMRoom"
             }
         },
