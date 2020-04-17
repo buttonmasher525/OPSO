@@ -17,7 +17,7 @@ last_selected = menu_index;
 if (keyboard_check_pressed(vk_enter)) {
 	switch (menu_index) {
 		case 0:
-			show_debug_message("This will start the game");
+			room_goto_next();
 			break;
 		case 4:
 			game_end();

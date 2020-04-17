@@ -27,9 +27,9 @@ if (k_back) {
 // Iterate through game rooms forwards
 if (k_forward) {
 	if (room = room_last) {
-		room_goto(room_last);
+		room_goto(room_first);
 	} else {
-		room_goto_previous();
+		room_goto_next();
 	}
 }
 
